@@ -1,31 +1,42 @@
 body {
-    background-color: rgb(243, 124, 142);
+    background-color: rgb(190, 215, 254);
 }
 
 h1 {
-    color: rgb(63, 37, 8);
+    color:darkblue;
     font-size: 35px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
 }
 
 h2 {
-    color: rgb(63, 37, 8);
-    font-size: 30px;
+    font-size: 26px;
+    color: darkblue;
+    margin-top: 20px;
+    margin-left: 15px;
 }
 
 img {
     border: 1px solid black;
-    margin: 10px auto;
+    margin: 15px auto;
     display: block;
 }
 
 p {
-    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-family: "Arial", sans-serif;
     font-size: 16px;
     color: black;
+    line-height: 1.5;
+}
+
+ul {
+    padding: 10px 30px;
 }
 
 li {
-    color: black;
+    margin-bottom: 10px;
+    color:black;
 }
 
 a {
