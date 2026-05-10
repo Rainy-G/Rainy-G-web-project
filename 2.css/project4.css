@@ -25,15 +25,6 @@ h2 {
     margin-top: 20px;
 }
 
-section {
-    background-color: rgb(88, 52, 39);
-    padding: 15px;
-    margin: 20px auto;
-    border-radius: 10px;
-    max-width: 900px;
-    border: 2px solid #5c1e12;
-}
-
 img {
     border: 2px solid #5c1e12;
     margin: 15px auto;
