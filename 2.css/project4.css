@@ -6,23 +6,6 @@ body {
 }
 
 
-nav {
-    background-color: #6b1f14;
-    padding: 15px;
-}
-
-nav a {
-    color: #f5e6d3;
-    font-size: 20px;
-    margin-right: 10px;
-    text-decoration: none;
-}
-
-nav a:hover {
-    color: #d98b73;
-}
-
-
 h1 {
     color: #8B0000;
     font-size: 55px;
