@@ -5,6 +5,11 @@ button.addEventListener("click", function(event) {
 
     let name = document.getElementById("name").value;
 
-    document.getElementById("message").innerHTML =
-        "Welcome to Pompeii, " + name + "!";
+    if (name === "") {
+        document.getElementById("message").innerHTML =
+            "Please enter your name.";
+    } else {
+        document.getElementById("message").innerHTML =
+            "Welcome to Pompeii, " + name + "!";
+    }
 });
